@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "681c0a90fe1a3d9d2fedc604"
+  },
+  "name": "Bayu Rahmat Nurhidayanto",
+  "nim": [
+    "23090106"
+  ],
+  "kelas": [
+    "4D"
+  ],
+  "pid": "P1"
+},
+{
+  "_id": {
+    "$oid": "681c0b473fcd0d716dbbc036"
+  },
+  "name": "Agung Sembodo",
+  "nim": [
+    "23090001"
+  ],
+  "kelas": [
+    "4D"
+  ],
+  "pid": "P2"
+}]
