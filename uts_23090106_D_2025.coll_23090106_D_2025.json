@@ -23,4 +23,17 @@
     "4D"
   ],
   "pid": "P2"
+},
+{
+  "_id": {
+    "$oid": "681c142947b9e279fc16f95c"
+  },
+  "name": "Muhammad Rifqi Fuadi",
+  "nim": [
+    "23090139"
+  ],
+  "kelas": [
+    "4D"
+  ],
+  "pid": "P3"
 }]
